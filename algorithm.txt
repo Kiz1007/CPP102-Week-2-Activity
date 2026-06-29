@@ -1,0 +1,29 @@
+Laboratory Activity 1: Add Two Numbers
+
+STEP 1:START
+STEP 2:Ask the user to enter the first number. Store it as num1.
+STEP 3:Ask the user the second number. Store it as num2.
+STEP 4:Compute sum = num1 + num2.
+STEP 5:DISPLAY sum.
+STEP 6:END.
+
+Laboratory Activity 2: Compute the average of Three Quiz Scores
+
+STEP 1:Start.
+STEP 2:Ask the user to enter the number. Store it as score1.
+STEP 4:Ask the user to enter the second quiz score. Store it as score2.
+STEP 5:Ask the user to enter the third quiz score. Store it as score3.
+STEP 6:Compute sum = score1 + score2 + score3
+STEP 7:Display score.
+STEP 8: End.
+
+Laboratory Activity 3: Determine if a Number is Even or Odd
+
+
+STEP 1:Start.
+STEP 2:Ask the user to enter the number. Store it as number.
+STEP 3:Read the input and store it as number.
+STEP 4:Check if number mod 2 = 0.
+STEP 5:If true, display "The number is Even.
+STEP 6:Otherwise, display "The number is Odd."
+STEP 7: End.
